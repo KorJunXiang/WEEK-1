@@ -12,6 +12,7 @@ System.out.println("    *    ");
 	}
 
 }
+
 package pattern;
 
 public class PrintSquarePattern {
@@ -26,6 +27,7 @@ System.out.println("* * * * *");
 	}
 
 }
+
 package pattern;
 
 public class PrintStarPattern {
@@ -40,6 +42,7 @@ System.out.println("*       *");
 	}
 
 }
+
 package pattern;
 
 public class PrintTriangularPattern {
